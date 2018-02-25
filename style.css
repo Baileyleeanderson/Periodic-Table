@@ -1,0 +1,167 @@
+* {
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	border: 0 none;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+    }
+    
+#wrapper{
+    width: 1035px;
+    height: 550px;
+    background: lightgray;
+}
+h1{
+    color: red;
+    position: absolute;
+    width: 25px;
+    margin-top: 15px;
+    margin-left: 15px;
+    display: inline-block;
+}
+.numtop{
+    color: red;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    left: 57px;
+    top: 15px;
+    margin-left: 34.5px;
+    
+}
+.numside{
+    color: red;
+    margin-bottom: 30px;
+    position: relative;
+    top: 60px;
+    left: 25px;
+    list-style-type: none;
+    
+}
+.blue-box{
+    width: 100px;
+    height: 330px;
+    display: inline-block;
+    position: relative;
+    left: 75px;
+    bottom: 300px;
+}
+.smallblue{
+    width: 45px;
+    height: 45px;
+    background: rgb(84, 84, 252);
+    display: inline-block;
+    margin-right: 0px;
+    margin-bottom: 3px;
+    border: 1px solid black;
+}
+.smallblue1{
+    width: 45px;
+    height: 45px;
+    background: lightgray;
+    display: inline-block;
+    margin-right: 0px;
+    margin-bottom: 3px;
+    border: 1px solid lightgray;
+}
+h4{
+    text-align: center;
+    font-size: 10px;
+}
+h2{
+    text-align: center;
+}
+.red{
+    width: 510px;
+    height: 200px;
+    display: inline-block;
+    position: relative;
+    left: 80px;
+    bottom: 300px;
+}
+.smallred{
+    width: 45px;
+    height: 45px;
+    background: rgb(240, 108, 108);
+    display: inline-block;
+    margin-right: 0px;
+    margin-bottom: 3px;
+    border: 1px solid black;
+}
+.yellow{
+    width: 305px;
+    height: 330px;
+    display: inline-block;
+    display:inline-block;
+    position: relative;
+    left: 75px;
+    bottom: 328px;
+
+}
+.smallyellow{
+    width: 45px;
+    height: 45px;
+    background: rgb(235, 197, 46);
+    display: inline-block;
+    margin-right: 0px;
+    margin-bottom: 3px;
+    vertical-align: top;
+    border: 1px solid black;
+}
+.smallyellow1{
+    width: 45px;
+    height: 45px;
+    background: lightgray;
+    display: inline-block;
+    margin-right: 0px;
+    margin-bottom: 3px;
+    border: 1px solid lightgray;
+   
+    
+}
+.green{
+    width: 722px;
+    height: 110px;
+    display: inline-block;
+    display:inline-block;
+    position: relative;
+    left: 184px;
+    bottom: 287px;
+
+}
+.smallgreen{
+    width: 45px;
+    height: 45px;
+    background: rgb(46, 220, 60);
+    display: inline-block;
+    margin-right: 0px;
+    margin-bottom: 3px;
+    border: 1px solid black;
+}
+h5{
+    color: red;
+}
+#lan{
+    position: relative;
+    bottom: 381px;
+    left: 49px;
+}
+#act{
+    position: relative;
+    bottom: 350px;
+    left: 49px;
+}
+#star{
+    position: relative;
+    bottom: 413px;
+    left: 175px;
+}
+#star2{
+    position: relative;
+    bottom: 384px;
+    left: 168px;
+}
